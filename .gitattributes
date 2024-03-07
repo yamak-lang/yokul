@@ -1,0 +1,7 @@
+*.h linguist-language=C
+*.c linguist-language=C
+*.xmacro linguist-language=C
+dep/* linguist-vendored
+etc/* linguist-generated
+out/* linguist-generated
+dat/* linguist-generated
